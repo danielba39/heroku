@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielba39/heroku/issues"
   },
-  "homepage": "https://github.com/danielba39/heroku#readme"
+  "homepage": "https://github.com/danielba39/heroku#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
